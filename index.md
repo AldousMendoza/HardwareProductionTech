@@ -1,4 +1,4 @@
-#HardwareProductionTech</title>
+#HardwareProductionTech
 ##Blog
 
 ###12/07/2017
