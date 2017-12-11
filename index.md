@@ -5,6 +5,7 @@
 
 
 ### 12/07/2017
+Placard
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/placard.PNG?raw=true">
     
 ### 11/27/2017
