@@ -1,6 +1,6 @@
-#HardwareProductionTech
+HardwareProductionTech
 
-##Blog
+Blog
 
 12/07/2017
 [Image](https://github.com/AldousMendoza/HardwareProductionTech/blob/master/placard.PNG?raw=true)
