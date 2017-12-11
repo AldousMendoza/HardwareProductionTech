@@ -7,7 +7,7 @@
 ### 12/07/2017
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/placard.PNG?raw=true">
 
-Build Script: I will begin the video with a title page of my project name and brief summary of what it should be doing.
+**Build Script:** I will begin the video with a title page of my project name and brief summary of what it should be doing.
 I will then show all the individual parts one by one. Afterwards I will assemble them and demonstrate it.
 
 ### 12/04/2017
