@@ -3,7 +3,7 @@
 ##Blog
 
 12/07/2017
-TEST
+[Image](https://raw.githubusercontent.com/AldousMendoza/HardwareProductionTect/master/placard.img)
     
 11/27/2017
 Sensehat Soldered and tested.
