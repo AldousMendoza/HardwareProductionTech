@@ -1,4 +1,6 @@
 # HardwareProductionTech
+## Pressure Sensor Module for robot arm.
+### The module will stop the robot arm from applying too much force to an object being squeezed.
 
 
 ## Blog
