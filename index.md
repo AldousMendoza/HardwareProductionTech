@@ -13,9 +13,10 @@ I will then show all the individual parts one by one. Afterwards I will assemble
 ### 12/04/2017
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/SenseHat1.jpg?raw=true">
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/SenseHat2.jpg?raw=true">
+SenseHat Tested.
     
 ### 11/27/2017
-Sensehat Soldered and tested.
+SenseHat Soldered.
     
 ### 10/18/2017
 Parts Receieved.
