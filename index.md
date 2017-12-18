@@ -6,6 +6,12 @@ The module will stop the robot arm from applying too much force to an object bei
 ## Blog
 
 
+### 12/18/2017
+<video width="320" height="240" controls>
+    <source src="HardwareProductionTech/Build.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ### 12/07/2017
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/placard.PNG?raw=true">
 
