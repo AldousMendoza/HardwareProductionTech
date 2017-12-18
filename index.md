@@ -16,7 +16,7 @@ The module will stop the robot arm from applying too much force to an object bei
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/placard.PNG?raw=true">
 
 **Build Script:** I will begin the video with a title page of my project name and brief summary of what it should be doing.
-I will then show all the individual parts one by one. Afterwards I will assemble them and demonstrate it.
+I will then show all the individual parts one by one. Afterwards I will explain how to assemble it.
 
 ### 12/04/2017
 <img src="https://github.com/AldousMendoza/HardwareProductionTech/blob/master/SenseHat1.jpg?raw=true">
